@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shama Ansari 👋
 
-<!--
-**Shama0911/Shama0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Skills
+- Python
+- Java
+- C++
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Web Development
+- Data Science
+
+📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/shama-ansari-1a1872299
